@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1772752514 source:c:\users\redes\downloads\reprovacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

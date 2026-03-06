@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1772750924 source:c:\users\redes\downloads\voto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
